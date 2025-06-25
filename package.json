@@ -22,13 +22,13 @@
     "types": "tsc -p ./tsconfig.json",
     "test": "node ./test/index.js"
   },
-  "homepage": "https://github.com/NaughtySora/naughty-logger#readme",
+  "homepage": "https://github.com/NaughtySora/Logger#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NaughtySora/naughty-logger.git"
+    "url": "git+https://github.com/NaughtySora/Logger.git"
   },
   "bugs": {
-    "url": "https://github.com/NaughtySora/naughty-logger/issues"
+    "url": "https://github.com/NaughtySora/Logger/issues"
   },
   "devDependencies": {
     "@types/node": "^22.13.14",
