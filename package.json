@@ -1,6 +1,6 @@
 {
   "name": "naughty-logger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "NaughtySora <naughtysora@proton.me>",
   "license": "MIT",
   "main": "main.js",
@@ -19,8 +19,7 @@
     "main.d.ts"
   ],
   "scripts": {
-    "types": "tsc -p ./tsconfig.json",
-    "test": "node ./test/index.js"
+    "types": "tsc -p ./tsconfig.json"
   },
   "homepage": "https://github.com/NaughtySora/naughty-logger#readme",
   "repository": {
@@ -31,7 +30,7 @@
     "url": "https://github.com/NaughtySora/naughty-logger/issues"
   },
   "devDependencies": {
-    "@types/node": "^22.13.14",
-    "typescript": "^5.8.2"
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
   }
 }
